@@ -2,8 +2,6 @@
 
 profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on : More python projects
 - 🌱 I’m currently learning : Python and C#
 - 👯 My good friend and collaborator : @BananaBoii600 (https://github.com/BananaBoii600) 
