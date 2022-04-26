@@ -1,4 +1,4 @@
-### Hi there I am Chibong. I am a High Schooler who likes to code. Hope u like my projects.
+### Hi there I am Chibong. I am a High Schooler who likes to code. Hope u like my projects :)
 
 profile.
 
