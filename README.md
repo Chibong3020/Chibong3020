@@ -8,4 +8,7 @@ profile.
 - 📫 How to reach me: You can reach me in discord @Chibong#0678
 - ⚡ Fun fact: The name python came from : Guido van Rossum was also reading the published scripts from “Monty Python's Flying Circus” while he made python. He thought the name python was short and elegant and decided to name python python.
 - Discord Server (https://discord.gg/8KuDFGxaMq)
+
+![Chibong Logo](https://user-images.githubusercontent.com/102298656/165674962-f6f27bfb-6fed-4f9b-8414-b52673904322.png)
+.
 -->
